@@ -1,3 +1,0 @@
-
-
-let data :any= "c" 
